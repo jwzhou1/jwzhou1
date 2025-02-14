@@ -45,14 +45,3 @@ I hold degrees from:
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue)
 
-<script>
-fetch("https://ipapi.co/json/")
-  .then(response => response.json())
-  .then(data => {
-    document.getElementById("visitor-info").innerHTML =
-      `🌍 Location: ${data.city}, ${data.country_name} <br> 🖥️ IP: ${data.ip}`;
-  });
-</script>
-
-<p id="visitor-info">Detecting visitor location...</p>
-
