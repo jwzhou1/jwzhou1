@@ -40,3 +40,9 @@ I hold degrees from:
 🔹 Passionate about AI, automation, and scalable software solutions  
 🔹 Experienced in full-stack development and data pipeline automation  
 🔹 Love contributing to open-source and building impactful tech solutions  
+
+# Visitor Count
+
+![Visitor Count](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue)
+
+
